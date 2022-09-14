@@ -58,6 +58,8 @@ dependencies:
   flutter_signin_button:
   flutter_screen_lock:
   provider:
+  stop_watch_timer:
+  flutter_instagram_stories:
 
 
   # The following adds the Cupertino Icons font to your application.

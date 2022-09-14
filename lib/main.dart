@@ -1,3 +1,5 @@
+import 'package:animalproject/StopWatchTimerPage.dart';
+import 'package:animalproject/TimerPage.dart';
 import 'package:animalproject/other/HomePage.dart';
 import 'package:animalproject/provider/AnimalProvider.dart';
 import 'package:flutter/material.dart';
